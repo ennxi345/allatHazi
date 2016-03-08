@@ -1,0 +1,6 @@
+c:\users\ciprián\documents\visual studio 2015\Gyakorlatok\allatHazi\allatHazi\bin\Debug\allatHazi.exe.config
+C:\Users\Ciprián\Documents\Visual Studio 2015\Gyakorlatok\allatHazi\allatHazi\bin\Debug\allatHazi.exe
+C:\Users\Ciprián\Documents\Visual Studio 2015\Gyakorlatok\allatHazi\allatHazi\bin\Debug\allatHazi.pdb
+C:\Users\Ciprián\Documents\Visual Studio 2015\Gyakorlatok\allatHazi\allatHazi\obj\Debug\allatHazi.csprojResolveAssemblyReference.cache
+C:\Users\Ciprián\Documents\Visual Studio 2015\Gyakorlatok\allatHazi\allatHazi\obj\Debug\allatHazi.exe
+C:\Users\Ciprián\Documents\Visual Studio 2015\Gyakorlatok\allatHazi\allatHazi\obj\Debug\allatHazi.pdb
